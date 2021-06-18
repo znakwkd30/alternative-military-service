@@ -14,11 +14,13 @@
         "cross-env": "^7.0.3",
         "dotenv": "^10.0.0",
         "express": "^4.17.1",
-        "reflect-metadata": "^0.1.13"
+        "reflect-metadata": "^0.1.13",
+        "request-promise": "^4.2.6"
     },
     "devDependencies": {
         "@types/express": "^4.17.12",
         "@types/node": "^15.12.2",
+        "@types/request-promise": "^4.1.47",
         "eslint": "^7.28.0",
         "eslint-config-airbnb-base": "^14.2.1",
         "eslint-config-prettier": "^8.3.0",
